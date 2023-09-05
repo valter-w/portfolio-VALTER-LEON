@@ -4,6 +4,7 @@ Hello! I am an AI student at *IT-Högkolan* in Gothenburg, Sweden. I have some p
 
 ## Hobbies
  - Programming
+ - Reading
  - Cross stitching
  - Baking
  - Producing satire pseudonymously
